@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # encoding: utf-8
 """
-Author  : DedSecTL
+Author  : SCOUTMASTER57
 Date	: 08-09-2019
 Name	: Vbug Maker
 Purpose : Generate any virus on your device
